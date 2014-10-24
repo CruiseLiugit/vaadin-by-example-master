@@ -1,0 +1,14 @@
+*.class
+target
+widgetsets
+gwt-unitCache
+.settings
+.project
+.classpath
+ajcore.*
+rebel.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
